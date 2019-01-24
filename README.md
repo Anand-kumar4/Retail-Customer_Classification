@@ -6,3 +6,6 @@ Data Details
 2) Customer_Transaction: Customer-Store-Week level transaction details for the last two years
 3) Store_Master: Store attribute details
 4) Test_Set: Submission file at Customer- New Store prediction level. Use this to create an additional column of Prediction tagging each customer-store into a 1 or a 0 for the submission file.
+
+You can download the dataset from 
+https://drive.google.com/open?id=1wVL6FKKopp3aCeWLpcki_b_WZrRzc3Jc
